@@ -17,7 +17,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 - [Salesforce Travis Configure](https://github.com/forcedotcom/sfdx-travisci)
-- [visualforce-to-lwc](https://github.com/trailheadapps/visualforce-to-lwc)
+- [Visualforce To LWC](https://github.com/trailheadapps/visualforce-to-lwc)
 
 ## Unit Test 
 ### Set up Running environment
