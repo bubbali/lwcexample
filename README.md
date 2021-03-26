@@ -16,7 +16,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
-
+- [Salesforce Travis Configure](https://github.com/forcedotcom/sfdx-travisci)
 
 ## Unit Test 
 ### Set up Running environment
@@ -24,3 +24,6 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 ## Run the unit test suites
 - node node_modules/@salesforce/sfdx-lwc-jest/bin/sfdx-lwc-jest
+
+## My Trailhead environment
+https://playful-wolf-4vomn5-dev-ed.lightning.force.com/one/one.app
