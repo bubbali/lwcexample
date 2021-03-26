@@ -26,4 +26,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - node node_modules/@salesforce/sfdx-lwc-jest/bin/sfdx-lwc-jest
 
 ## My Trailhead environment
-https://playful-wolf-4vomn5-dev-ed.lightning.force.com/one/one.app
+- [JavaScript And LWC](https://brave-wolf-gajfuf-dev-ed.lightning.force.com/lightning/page/home)
