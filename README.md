@@ -12,18 +12,21 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 ## Read All About It
 
+- [Salesforce Components library](https://developer.salesforce.com/docs/component-library/overview/components)
 - [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 - [Salesforce Travis Configure](https://github.com/forcedotcom/sfdx-travisci)
 - [Visualforce To LWC](https://github.com/trailheadapps/visualforce-to-lwc)
+- [LWC Recipes](https://github.com/trailheadapps/lwc-recipes)
+- [ESline for LWC](https://github.com/salesforce/eslint-config-lwc)
 
 ## Unit Test 
 ### Set up Running environment
 - sfdx force:lightning:lwc:test:setup
 
-## Run the unit test suites
+### Run the unit test suites
 - node node_modules/@salesforce/sfdx-lwc-jest/bin/sfdx-lwc-jest
 
 ## My Trailhead environment
